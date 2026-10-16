@@ -44,9 +44,9 @@ Minha trajetória tem uma base forte em **Vue.js e TypeScript**, além de experi
 **Entrega e qualidade**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-146AA8?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-155FA0?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-276E30?style=flat-square)
 
 ## Projetos em destaque
 
